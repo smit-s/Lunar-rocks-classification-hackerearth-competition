@@ -16,8 +16,6 @@ Dense layer with 512 neurons added at end.
 
 Used adam optimizer and crossentropy as loss function
 
-Steps to run the script
-
 List of python modules used- pandas, tensorflow, sklearn, numpy
 
 Development enviroment- Google Colab
