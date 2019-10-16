@@ -1,4 +1,5 @@
-```Approach and Steps for implementation```
+#Approach and Steps for implementation
+
 Approach-
 
 Used a CNN for classification of images.
