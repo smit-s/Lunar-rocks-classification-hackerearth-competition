@@ -38,3 +38,5 @@ Finally the test.csv is the file that contains the answer.
 Also added the saved model named 'ch.h5'. User can directly load it and test on the test dataset.
 
 Both train and test scripts are in same file.
+
+Provides about 99.3% accuracy on test data
